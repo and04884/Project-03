@@ -9,16 +9,15 @@ This repository demonstrates full project lifecycle management, including planni
 ## 🌐 Live Website  
 Visit the published site here:  
 **https://and04884.github.io/explore-waco/**  
-(Replace with your actual GitHub Pages URL.)
 
 ---
 
 ## 📁 Documentation  
 All project documentation is located in the `docs/` folder:
 
-- [scope.md](docs/scope.md)  
-- [plan.md](docs/plan.md)  
-- [retrospective.md](docs/retrospective.md)
+- [scope.md](scope.md)  
+- [plan.md](plan.md)  
+- [retrospective.md](retrospective.md)
 
 ---
 
