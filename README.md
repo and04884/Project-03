@@ -8,7 +8,8 @@ This repository demonstrates full project lifecycle management, including planni
 
 ## 🌐 Live Website  
 Visit the published site here:  
-**https://and04884.github.io/explore-waco/**  
+**[index.html](https://and04884.github.io/Project-03/)
+/**  
 
 ---
 
